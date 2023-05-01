@@ -1,0 +1,15 @@
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\bin\Debug\net7.0\PinCodes.exe
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\bin\Debug\net7.0\PinCodes.deps.json
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\bin\Debug\net7.0\PinCodes.runtimeconfig.json
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\bin\Debug\net7.0\PinCodes.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\bin\Debug\net7.0\PinCodes.pdb
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\PinCodes.csproj.AssemblyReference.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\PinCodes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\PinCodes.AssemblyInfoInputs.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\PinCodes.AssemblyInfo.cs
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\PinCodes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\PinCodes.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\refint\PinCodes.dll
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\PinCodes.pdb
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\PinCodes.genruntimeconfig.cache
+C:\Users\PC\Dropbox\Denrey\Coding\C#\PinCodes\obj\Debug\net7.0\ref\PinCodes.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7dUzuzAzNBjtWinh0gyUDAQZo5+2lcoWDEmDtJLYjz3tUXZvKc56DsiqkAJs8S9xHWA/YSkaaeTlsu1j6BYEbw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Dropbox\\Denrey\\Coding\\C#\\PinCodes\\PinCodes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.4\\microsoft.netcore.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.4.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.4\\microsoft.aspnetcore.app.runtime.win-x64.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
